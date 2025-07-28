@@ -12,7 +12,7 @@
 
 🎯 I specialize in *React.js* and build clean, responsive, and user-centric interfaces.
 
-💡 I enjoy turning creative ideas into reality using modern frameworks like *Svelte, Flutter,* and *TypeScript*.
+💡 I enjoy turning creative ideas into reality using modern frameworks like *react.js, svelte, *Tailwind and *TypeScript*.
 
 🛠 I'm dedicated to writing scalable code, optimizing performance, and keeping up with the ever-evolving frontend ecosystem.
 
@@ -24,7 +24,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
@@ -45,9 +44,9 @@
 
 ## 📝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)
-- 📸 [Instagram](https://www.instagram.com/your_instagram_here)
-- 📧 jaghan.yourmail@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/jaghan-t-s-1451a3376/))
+- 📸 [Instagram]((https://www.instagram.com/j_a_g_h_a_n/?hl=en))
+- 📧 jaghanjaghan56@gmail.com
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="coding gif" />
