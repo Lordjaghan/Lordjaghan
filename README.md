@@ -5,14 +5,15 @@
 
 <h1 align="center">Hey there, I'm Jaghan T.S 👨🏻‍💻</h1>
 <p align="center">
-  <i>A passionate Frontend Developer crafting intuitive and accessible user experiences</i>
+<i>A passionate Full Stack Developer building seamless, scalable, and user-centric web applications</i>
 </p>
 
 ## 🌟 About Me
 
 🎯 I specialize in *React.js* and build clean, responsive, and user-centric interfaces.
 
-💡 I enjoy turning creative ideas into reality using modern frameworks like *react.js, svelte, *Tailwind and *TypeScript*.
+💡 I enjoy turning creative ideas into reality using modern frameworks like *React.js*, *Svelte*, *Tailwind CSS*, and *TypeScript*. I also bring strong backend expertise with *Django*, *Python*, and *MySQL* to build full-stack, scalable web applications.
+
 
 🛠 I'm dedicated to writing scalable code, optimizing performance, and keeping up with the ever-evolving frontend ecosystem.
 
