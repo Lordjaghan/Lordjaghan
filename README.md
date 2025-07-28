@@ -44,7 +44,7 @@
 
 ## 📝 Let's Connect
 
-- 💼 [LinkedIn][https://www.linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/jaghan-t-s-1451a3376/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaghan-t-s-1451a3376/)
 - 📸 [Instagram](https://www.instagram.com/j_a_g_h_a_n/?hl=en)
 - 📧 jaghanjaghan56@gmail.com
 
