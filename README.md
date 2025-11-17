@@ -15,7 +15,7 @@
 💡 I enjoy turning creative ideas into reality using modern frameworks like *React.js*, *Svelte*, *Tailwind CSS*, and *TypeScript*. I also bring strong backend expertise with *Django*, *Python*, and *MySQL* to build full-stack, scalable web applications.
 
 
-🛠 I'm dedicated to writing scalable code, optimizing performance, and keeping up with the ever-evolving frontend ecosystem.
+🛠 I'm dedicated to writing scalable code, optimizing performance, and keeping up with the ever-evolving frontend as well as backend ecosystem.
 
 📚 I'm a continuous learner who loves exploring new technologies and pushing the limits of web development.
 
